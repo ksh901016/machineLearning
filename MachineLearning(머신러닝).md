@@ -4,23 +4,17 @@
 
 ##### Supervised Learning(지도학습), 분류와 회귀
 
----
-
 * 정답을 갖고 있음(labled)
 
 * Regression, CNN, RNN 등
 
 ##### Unsupervised Learning(비지도 학습), 군집
 
----
-
 * 정답을 갖고 있지 않음(Unlabeled)
 
 * Clustering, 차원축소 등
 
 ##### Reinforcement Learning(강화학습)
-
----
 
 * Deep-Q-Learning 등
 
